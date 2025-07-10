@@ -9,6 +9,7 @@ Dataset
 Source: [UCI Machine Learning Repository – Estimation of obesity levels](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
 
 Sample: 2111 
+
 Target classes (7 total):
   - Insufficient_Weight/Underweight
   - Normal_Weight
