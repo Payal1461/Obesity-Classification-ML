@@ -1,5 +1,5 @@
 # Obesity-Classification-ML
-Predicting obesity levels using machine learning techniques.
+Predicting obesity levels using machine learning technique(logistic regression)
 
 It includes preprocessing (encoding & scaling), model training, and evaluation using metrics like accuracy, confusion matrix, and classification report.
 
